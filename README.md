@@ -7,7 +7,7 @@ A Blockchain E-Voting System for the Surrey Students Union
 
 **Contract -** the smart contract of the application
 
-👇🏿👇🏿👇🏿👇🏿 Below is a link to my blog where I explain the E-Voting System in more detail. 
+Here is a link to my blog where I explain the E-Voting System in more detail. 
 https://tobitalkss.com/a-final-year-project/
 
 # Live Demo
